@@ -1,8 +1,8 @@
 # gitbook 使用教程
 
+**ref:** [使用 | GitBook 简明教程 (chengweiyang.cn)](https://www.chengweiyang.cn/gitbook/basic-usage/README.html)
 
-
-> gitbook 的基本用法非常简单，基本上就只有两步：
+---
 
 gitbook 的基本用法非常简单，基本上就只有两步：
 
