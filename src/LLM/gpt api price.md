@@ -1,7 +1,7 @@
 # OpenAI GPT API Pricing Summary
 
 > summary by GPT4 Web Browser extention
-![Newest Price](https://openai.com/pricing)
+> [Newest Price](https://openai.com/pricing)
 
 数据获取日期：2024-02-20
 
