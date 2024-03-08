@@ -4,9 +4,7 @@
 
 
 
-**广告位**: 我自己部署的chatglm3-6b**玩具**. (*目前用的是cpu推理, 速度很慢, 供大家玩耍*)
-
-[快点我](http://10.44.201.116:8008/)
+**广告位**: 我自己部署的chatglm3-6b**玩具**. [Chatglm3-6B](http://10.44.201.97:8008/)
 
 
 
@@ -43,9 +41,20 @@ todo: update Image/Video related products, e.g. Dall-E, Stable Difffusion, Sora
 
 -   [Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model (github.com)](https://github.com/Hannibal046/Awesome-LLM)
     -   Awesome LLM, 凡是叫Awesome都比较好.
-
 -   [FreedomIntelligence/LLMZoo: ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ (github.com)](https://github.com/FreedomIntelligence/LLMZoo)
     -   LLM Zoo: 汇总了当前LLM热门的模型, 并对比他们之前的性能
-
 -   [eugeneyan/open-llms: 📋 A list of open LLMs available for commercial use. (github.com)](https://github.com/eugeneyan/open-llms)
     -   汇总了当前热门的开源大语言模型
+-   [ggerganov/llama.cpp: LLM inference in C/C++ (github.com)](https://github.com/ggerganov/llama.cpp/tree/master)
+    -   C/C++ 加速推理大模型
+-   [chatchat-space/Langchain-Chatchat: Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain (github.com)](https://github.com/chatchat-space/Langchain-Chatchat)
+    -   利用chatGLM构建本地知识库
+
+
+
+
+
+## 其他咨询
+
+-   [清华大学发布AIGC发展研究资料2.0（211页完整版）-今日头条 (toutiao.com)](https://www.toutiao.com/article/7341389422849720841/?app=news_article_lite&group_id=7341389422849720841&req_id=2024030222082365429665EFE27E88FE92&share_token=cf0b4000-106d-4af6-a664-0d6b956eda7c&timestamp=1709388504&tt_from=copy_link&use_new_style=1&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=copy_link&source=m_redirect)
+    -   清华新传媒团队研究关于AIGC的发展现状
