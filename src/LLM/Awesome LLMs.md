@@ -94,7 +94,8 @@
 -   [Langchain-Chatchat: 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 ](https://github.com/chatchat-space/Langchain-Chatchat)
     -   利用chatGLM构建本地知识库
 
-
+-   [XAgent: An Autonomous LLM Agent for Complex Task Solving](https://github.com/OpenBMB/XAgent)
+-   [Llama-Index](https://github.com/run-llama/llama_index)
 
 
 
@@ -105,3 +106,7 @@
 
 -   [LLM课程](https://github.com/mlabonne/llm-course)
     -   大语言模型相关的课程, 从基础到开发. (全英)
+
+-   [langchain tutorial - Naonets](https://nanonets.com/blog/langchain/)
+
+-   [langchain cookbook - official](https://python.langchain.com/docs/expression_language/cookbook/)
